@@ -16,6 +16,12 @@ header {
   padding-bottom: 7rem;
 }
 
+.navbar {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
 .bg-cyan {
   background-color:#D8F0F3;
 }
